@@ -23,7 +23,7 @@ Qiuyu Lu</br>
 X-Studio, Academy of Art & Design, Tsinghua University</br>
 
 Zhiyi Ma</br>
-School of Automation, Beijing University of Posts and Telecommunications</br>
+Department of Automation, Beijing University of Posts and Telecommunications</br>
 
 Liyuan Wang</br>
 X-Studio, Tsinghua University</br>
